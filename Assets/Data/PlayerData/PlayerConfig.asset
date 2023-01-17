@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d15f2671a6cde6248b19f5c588960930, type: 3}
+  m_Name: PlayerConfig
+  m_EditorClassIdentifier: 
+  speed: {fileID: 11400000, guid: d23b681d8d960c24b9ae8a5daf813b06, type: 2}
+  damage: {fileID: 11400000, guid: 328ff7d53a395c34fa44cdb6beaac76e, type: 2}
+  radius: {fileID: 11400000, guid: 3039383e3cc285a42a5139137a8dd7cf, type: 2}
+  MaxCountEnemyForAttack: 3
+  CurrentCountEnemy: 0
